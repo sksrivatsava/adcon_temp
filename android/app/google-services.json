@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "411394584315",
+    "project_id": "adcon-5584c",
+    "firebase_url": "https://adcon-5584c-default-rtdb.firebaseio.com/",
+    "storage_bucket": "adcon-5584c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411394584315:android:278c4714790514023f0a5e",
+        "android_client_info": {
+          "package_name": "com.example.adcon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411394584315-fqr5r2odj28c9dol9rq7qh06a02sbe11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8es7flGvewQu7bHoaPBG3GVP0kORhg1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411394584315-fqr5r2odj28c9dol9rq7qh06a02sbe11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
